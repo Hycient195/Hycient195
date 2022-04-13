@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Hycient Onyeukwu, a full-stack software engineer residing in Nigeria.
+I am Hycient Onyeukwu, a full-stack software engineer residing in PortHarcourt, Nigeria.
 
 I'm passionate about bringing new ideas to reality by the development of web applications and back-end APIs, with the use of modern web technologies.
 
